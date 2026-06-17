@@ -1,1 +1,13 @@
-# ilya-Anderson
+# 👋 Привет, я [Ваше Имя]!
+
+🧐 Фронтенд-инженер самоучка
+💻 1 год опыта коммерческой разработки.
+
+<details>
+  <summary><b>🔧 Стек технологий</b></summary>
+
+  <br>
+  - 🌐 HTML5 / CSS3 / JavaScript
+  - 🛠 Git / GitHub
+
+</details>
