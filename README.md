@@ -19,10 +19,10 @@ markdown
 Здесь вы можете посмотреть мои проекты и сразу проверить их в действии:
     
 * **Stealthsurf VPN** — Удобный сайт для сервиса VPN.  
-  👉 [Открыть живой сайт](https://github.io) | [Посмотреть код](https://github.com)
+  👉 [Открыть живой сайт]([https://github.io](https://ilyaanderson.github.io/Stealthsurf-VPN/)) | [Посмотреть код]([https://github.com](https://github.com/ilyaAnderson/Stealthsurf-VPN.git))
     
 * **Project CMF** — Веб-интерфейс для управления контентом.  
-  👉 [Открыть живой сайт](https://github.io) | [Посмотреть код](https://github.com)
+  👉 [Открыть живой сайт]([https://github.io](https://ilyaanderson.github.io/project-CMF/)) | [Посмотреть код]([https://github.co](https://github.com/ilyaAnderson/project-CMF.git))
     
 ---
     
